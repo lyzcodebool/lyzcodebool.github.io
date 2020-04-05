@@ -29,7 +29,8 @@ title: 关于我
 
 <p> 
 
-![avatar](/images/gzh2.jpg)
+<img src="/images/gzh2.jpg" width="300" height="300">
+
 <p> 
 小码技术交流群(QQ): 398237060     
 <p> 
