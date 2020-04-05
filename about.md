@@ -29,18 +29,12 @@ title: 关于我
 <p>
 
 如果你对我的文章或者个人的成长有什么建议，欢迎提给我。
-
+(小码技术交流QQ群)：398237060  小伙伴们等你很久了呢
 
 <h3> 关注公众号 </h3>  
 <p> 
 <img src="https://img-blog.csdnimg.cn/20200405142254907.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5enR5eWNvZGU=,size_16,color_FFFFFF,t_70"  width="300" height="300" align="left">
-<p> 
-
-
-<h3>小码技术交流群</h3>  
-<p>
-(QQ群)：398237060  小伙伴们等你很久了呢
-<p>   
+<p>  
 <p> 
 如果你有什么问题或有技术想要分享给大家，欢迎进群
 <p> 
