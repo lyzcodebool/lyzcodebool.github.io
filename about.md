@@ -12,13 +12,13 @@ title: 关于我
 关注本人的公众号，公众号会同步博客的内容，同时给你准备了大波的学习资源。关注我，让我们一起成长！
 <p>
 
-<h2> 我的博客 </h2>  
+<h3> 我的博客 </h3>  
 
 <p>
 
 <p>
 
-<a href="xiaomaweifu.blog.csdn.net">关注'小码blog'</a>
+<a href="https://blog.csdn.net/lyztyycode">关注【小码blog】</a>
 
 <p>
 
