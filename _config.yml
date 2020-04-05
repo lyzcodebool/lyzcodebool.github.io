@@ -16,8 +16,8 @@ comment:
 
 # Social
 social:
-    github: leopardpan
-    # zhihu: panpanleopard
+    github: lyzcodebool
+    csdn: lyztyycode
     # juejin: xxx
     #csdn: 2ada30d8d0f7
     # twitter: 
@@ -63,8 +63,10 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
-    
+    - {title: 关于我, description: about, url: '/about'}
+    - {title: CSDN, description: CSDN, url: 'https://blog.csdn.net/lyztyycode'}
+
+
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
