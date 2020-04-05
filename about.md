@@ -35,7 +35,7 @@ title: 关于我
 
 <p> 
 
-<img src="https://img-blog.csdnimg.cn/20200405142254907.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5enR5eWNvZGU=,size_16,color_FFFFFF,t_70" align=left width="300" height="300">
+<img src="https://img-blog.csdnimg.cn/20200405142254907.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5enR5eWNvZGU=,size_16,color_FFFFFF,t_70"  width="300" height="300" align="left">
 
 <p> 
 小码技术交流群(QQ): 398237060     
